@@ -50,6 +50,7 @@ Leerzeichen innerhalb einer Taste: <kbd>Page up</kbd> <kbd>Caps lock</kbd>
 | Tastenfolge | <kbd>G</kbd> <kbd>I</kbd> |
 | Pfeiltasten | <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> |
 | Funktionstaste | <kbd>F12</kbd> |
+| Mehrere Zeichen auf einer Taste | <kbd>abc</kbd> <kbd>Hallo Welt!</kbd> <kbd>v1.2</kbd> |
 | Umlaute im Wort | <kbd>Größe</kbd> <kbd>Ä</kbd>+<kbd>ü</kbd> |
 | Unterlängen | <kbd>g</kbd> <kbd>j</kbd> <kbd>p</kbd> <kbd>q</kbd> <kbd>y</kbd> |
 
